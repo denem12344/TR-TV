@@ -17,8 +17,8 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://trn03.tulix.tv/gt-kanald/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL" tvg-id="atv.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" tvg-logo-small="https://i.ibb.co/n1SCYqN/atv.png" ,ATV HD
 https://c.fulltvizle.com/aytv/index.m3u8
-#EXTINF:0 group-title="ULUSAL" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-logo-small="https://i.ibb.co/0DpKtzT/nowtvturk.png" ,NOW HD
-https://c.fulltvizle.com/fox/index.m3u8
+#EXTINF:0 group-title="ULUSAL" tvg-id="Now.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-logo-small="https://i.ibb.co/0DpKtzT/nowtvturk.png" ,NOW HD
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=4Wi8ZHCy-GPaqHt7qPhuQg&e=1734981841
 #EXTINF:0 group-title="ULUSAL" tvg-id="KANal7.tr" tvg-name="Kanal 7" tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" tvg-logo-small="https://i.ibb.co/1s3fHfm/k7tr1.png" ,KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 #EXTINF:0 group-title="ULUSAL" tvg-id="BEYAZTV.tr" tvg-logo="https://i.ibb.co/0tc3PYz/beyaz22b.png" tvg-logo-small="https://i.ibb.co/0tc3PYz/beyaz22b.png" ,BEYAZ HD
