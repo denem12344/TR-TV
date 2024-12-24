@@ -151,5 +151,5 @@ https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/cnbce.m3u8
 #EXTINF:0 group-title="YEDEK" tvg-logo="https://i.ibb.co/PhwYjQ7/24tv.png" ,24
 https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:0 group-title="YEDEK" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" ,ÜLKE
+#EXTINF:0 group-title="YEDEK" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" ,ÜLKE TV
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
