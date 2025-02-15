@@ -1,163 +1,121 @@
-#EXTM3U
-#EXTINF:0 tvg-id="TRT1.tr" group-title="ULUSAL",TRT 1 HD
+﻿#EXTM3U
+#EXTINF:0 group-title="ULUSAL" tvg-id="TRT1.tr" ,TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="TRTturk.tr" group-title="ULUSAL",TRT TURK HD
+#EXTINF:0 group-title="ULUSAL" tvg-id="TRTturk.tr" ,TRT TURK HD
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="SSport.tr" group-title="ULUSAL",STAR TV HD
+#EXTINF:0 group-title="ULUSAL" tvg-id="SSport.tr" ,STAR TV HD
 https://dogus-live.daioncdn.net/startv/startv.m3u8
-#EXTINF:0 tvg-id="ShowTV.tr" group-title="ULUSAL",SHOW HD
+#EXTINF:0 group-title="ULUSAL" tvg-id="ShowTV.tr" ,SHOW HD
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:0 tvg-id="KanalD.tr" group-title="ULUSAL",KANAL D HD
+#EXTINF:0 group-title="ULUSAL" tvg-id="KanalD.tr" ,KANAL D HD
 https://trn03.tulix.tv/gt-kanald/playlist.m3u8
-#EXTINF:0 tvg-id="ATV.am" group-title="ULUSAL",ATV HD
+#EXTINF:0 group-title="ULUSAL" tvg-id="ATV.am" ,ATV HD
 https://c.fulltvizle.com/aytv/index.m3u8
-#EXTINF:0 tvg-id="ext" group-title="ULUSAL",NOW HD
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=4Wi8ZHCy-GPaqHt7qPhuQg&e=1734981841
-#EXTINF:0 tvg-id="Kanali7.al" group-title="ULUSAL",KANAL 7 HD
+#EXTINF:0 group-title="ULUSAL" ,NOW HD
+https://c.fulltvizle.com/fox/index.m3u8
+#EXTINF:0 group-title="ULUSAL" tvg-id="Kanali7.al" ,KANAL 7 HD
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:0 tvg-id="BEYAZTV.tr" group-title="ULUSAL",BEYAZ TV HD
+#EXTINF:0 group-title="ULUSAL" tvg-id="BEYAZTV.tr" ,BEYAZ TV HD
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:0 tvg-id="360.tr" group-title="ULUSAL",360 HD
+#EXTINF:0 group-title="ULUSAL" tvg-id="360.tr" ,360 HD
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-
-#EXTINF:0 tvg-id="TRTHaber.tr" group-title="HABER",TRT HABER HD
+#EXTINF:0 group-title="HABER" tvg-id="TRTHaber.tr" ,TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="CNNTURK.tr" group-title="HABER",CNN TÜRK
+#EXTINF:0 group-title="HABER" tvg-id="CNNTURK.tr" ,CNN TÜRK
 https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
-#EXTINF:0 tvg-id="NTV.uk" group-title="HABER",NTV
+#EXTINF:0 group-title="HABER" tvg-id="NTV.uk" ,NTV
 https://dogus-live.daioncdn.net/ntv/ntv.m3u8
-#EXTINF:0 tvg-id="HABERTURK.tr" group-title="HABER",HABERTURK HD
+#EXTINF:0 group-title="HABER" tvg-id="HABERTURK.tr" ,HABERTURK HD
 https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
-#EXTINF:0 tvg-id="AHaber.tr" group-title="HABER",A HABER
-https://raw.githubusercontent.com/rideordie16/YouTube/main/haber/ahaber.m3u8
-#EXTINF:0 tvg-id="TGRTHaber.tr" group-title="HABER",TGRT HABER
+#EXTINF:0 group-title="HABER" tvg-id="AHaber.tr" ,A HABER
+https://canlitvulusal.xyz/live/ahaber/index.m3u8
+#EXTINF:0 group-title="HABER" tvg-id="TGRTHaber.tr" ,TGRT HABER
 https://tgrthaber-live.daioncdn.net/tgrthaber/tgrthaber.m3u8
-#EXTINF:0 tvg-id="24.tr" group-title="HABER",24
+#EXTINF:0 group-title="HABER" tvg-id="24.tr" ,24
 https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:0 tvg-id="UlkeTV.tr" group-title="HABER",ÜLKE TV
+#EXTINF:0 group-title="HABER" tvg-id="UlkeTV.tr" ,ÜLKE TV
 https://livetv.radyotvonline.net/kanal7live/ulketv/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HABER",HABER GLOBAL
+#EXTINF:0 group-title="HABER" ,HABER GLOBAL
 https://tv.ensonhaber.com/haberglobal/haberglobal.m3u8
-#EXTINF:0 tvg-id="Tv100.tr" group-title="HABER",TV 100
+#EXTINF:0 group-title="HABER" tvg-id="Tv100.tr" ,TV 100
 https://tv100-live.daioncdn.net/tv100/tv100.m3u8
-#EXTINF:0 tvg-id="TVNet.tr" group-title="HABER",TV NET
+#EXTINF:0 group-title="HABER" tvg-id="TVNet.tr" ,TV NET
 https://mn-nl.mncdn.com/tvnet/tvnet/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HABER",TBMM TV
+#EXTINF:0 group-title="HABER" ,TBMM TV
 https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HABER",SÖZCÜ TV
+#EXTINF:0 group-title="HABER" ,SÖZCÜ TV
 http://stream.tvcdn.net/haber/sozcu-tv.m3u8
-#EXTINF:0 tvg-id="HalkTV.tr" group-title="HABER",HALK TV
+#EXTINF:0 group-title="HABER" tvg-id="HalkTV.tr" ,HALK TV
 https://halktv-live.daioncdn.net/halktv/halktv.m3u8
-#EXTINF:0 tvg-id="Tele1.ch" group-title="HABER",TELE 1
+#EXTINF:0 group-title="HABER" tvg-id="Tele1.ch" ,TELE 1
 https://tele1.blutv.com/blutv_tele1_live/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HABER",EKOL TV
+#EXTINF:0 group-title="HABER" ,EKOL TV
 https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
-#EXTINF:0 tvg-id="TV5.mx" group-title="HABER",TV 5
+#EXTINF:0 group-title="HABER" tvg-id="TV5.mx" ,TV 5
 https://tv5-live.ercdn.net/tv5/tv5.m3u8
-#EXTINF:0 tvg-id="UlusalKanal.tr" group-title="HABER",ULUSAL KANAL
+#EXTINF:0 group-title="HABER" tvg-id="UlusalKanal.tr" ,ULUSAL KANAL
 http://dvrfl05.tulix.tv/gin-ulusalkanal/playlist.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HABER",BENGUTÜRK
+#EXTINF:0 group-title="HABER" ,BENGUTÜRK
 https://tv.ensonhaber.com/benguturk/benguturk.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HABER",BENGÜ TÜRK
+#EXTINF:0 group-title="HABER" ,BENGÜ TÜRK
 https://ensonhaber-live.ercdn.net/benguturk/benguturk.m3u8
-#EXTINF:0 tvg-id="ext" group-title="HABER",AKIT TV
+#EXTINF:0 group-title="HABER" ,AKIT TV
 http://akittv-live.ercdn.net/akittv/akittv.m3u8
-#EXTINF:0 tvg-id="BloombergHT.tr" group-title="HABER",BLOOMBERG HT
+#EXTINF:0 group-title="HABER" tvg-id="BloombergHT.tr" ,BLOOMBERG HT
 https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
-
-#EXTINF:0 tvg-id="TRTSPOR.tr" group-title="SPOR",TRT SPOR HD
+#EXTINF:0 group-title="SPOR" tvg-id="TRTSPOR.tr" ,TRT SPOR HD
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:0 tvg-id="TRTSpor2.tr" group-title="SPOR",TRT Spor
+#EXTINF:0 group-title="SPOR" tvg-id="TRTSpor2.tr" ,TRT Spor
 http://stream.tvcdn.net/spor/trt-spor.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPOR",TRT Spor YÄ±ldÄ±z
+#EXTINF:0 group-title="SPOR" ,TRT Spor YILDIZ
 http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
-#EXTINF:0 tvg-id="ASpor.tr" group-title="SPOR",A Spor
+#EXTINF:0 group-title="SPOR" tvg-id="ASpor.tr" ,A Spor
 http://stream.tvcdn.net/spor/a-spor.m3u8
-#EXTINF:0 tvg-id="SportsTV.tr" group-title="SPOR",Sports TV
+#EXTINF:0 group-title="SPOR" tvg-id="SportsTV.tr" ,Sports TV
 http://stream.tvcdn.net/spor/sports-tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPOR",beIN Sports Haber
+#EXTINF:0 group-title="SPOR" ,beIN Sports Haber
 http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
-#EXTINF:0 tvg-id="ext" group-title="SPOR",Tivibu Spor
+#EXTINF:0 group-title="SPOR" ,Tivibu Spor
 http://stream.tvcdn.net/spor/tivibu-spor.m3u8
-#EXTINF:0 tvg-id="FBTV.tr" group-title="SPOR",FB TV
+#EXTINF:0 group-title="SPOR" tvg-id="FBTV.tr" ,FB TV
 http://stream.tvcdn.net/spor/fb-tv.m3u8
-#EXTINF:0 tvg-id="GALATASARAYTV.tr" group-title="SPOR",GS TV
+#EXTINF:0 group-title="SPOR" tvg-id="GALATASARAYTV.tr" ,GS TV
 http://stream.tvcdn.net/spor/gs-tv.m3u8
-#EXTINF:0 tvg-id="TJKTV.tr" group-title="SPOR",TJK TV
+#EXTINF:0 group-title="SPOR" tvg-id="TJKTV.tr" ,TJK TV
 http://stream.tvcdn.net/spor/tjk-tv.m3u8
-
-#EXTINF:0 tvg-id="TRTCocuk.tr" group-title="ÇOCUK",TRT ÇOCUK HD
+#EXTINF:0 group-title="ÇOCUK" tvg-id="TRTCocuk.tr" ,TRT ÇOCUK HD
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
-
-#EXTINF:0 tvg-id="TV2.tr" group-title="EĞLENCE",Teve2 HD
+#EXTINF:0 group-title="EĞLENCE" tvg-id="TV2.tr" ,Teve2 HD
 https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
-#EXTINF:0 tvg-id="A2.tr" group-title="EĞLENCE",A2 HD
+#EXTINF:0 group-title="EĞLENCE" tvg-id="A2.tr" ,A2 HD
 http://stream.tvcdn.net/eglence/a2.m3u8
-#EXTINF:0 tvg-id="ext" group-title="EĞLENCE",SHOW MAX HD
+#EXTINF:0 group-title="EĞLENCE" ,SHOW MAX HD
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
-#EXTINF:0 tvg-id="TLC.tr" group-title="EĞLENCE",TLC HD
+#EXTINF:0 group-title="EĞLENCE" tvg-id="TLC.tr" ,TLC HD
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:0 tvg-id="DMAX.tr" group-title="EĞLENCE",DMAX HD
+#EXTINF:0 group-title="EĞLENCE" tvg-id="DMAX.tr" ,DMAX HD
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:0 tvg-id="ext" group-title="EĞLENCE",TV8.5
-corrupt/empty
-#EXTINF:0 tvg-id="CNBC-E.tr" group-title="EĞLENCE",CNBC-e
+#EXTINF:0 group-title="EĞLENCE" tvg-id="CNBC-E.tr" ,CNBC-e
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
-
-#EXTINF:0 tvg-id="TRTBelgesel.tr" group-title="BELGESEL",TRT BELGESEL
+#EXTINF:0 group-title="BELGESEL" tvg-id="TRTBelgesel.tr" ,TRT BELGESEL
 http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
-
-#EXTINF:0 tvg-id="TRTMuzik.tr" group-title="MÜZİK",TRT MUZIK
+#EXTINF:0 group-title="MÜZİK" tvg-id="TRTMuzik.tr" ,TRT MUZIK
 http://stream.tvcdn.net/muzik/trt-muzik.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MÜZİK",Dream TÃ¼rk
+#EXTINF:0 group-title="MÜZİK" ,Dream TÜRK
 http://stream.tvcdn.net/muzik/dream-turk.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MÜZİK",PowertÃ¼rk TV
+#EXTINF:0 group-title="MÜZİK" ,PowerTÜRK TV
 http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
-#EXTINF:0 tvg-id="PowerTV.tr" group-title="MÜZİK",Power TV
+#EXTINF:0 group-title="MÜZİK" tvg-id="PowerTV.tr" ,Power TV
 http://stream.tvcdn.net/muzik/power-tv.m3u8
-#EXTINF:0 tvg-id="KralPop.tr" group-title="MÜZİK",Kral Pop TV
+#EXTINF:0 group-title="MÜZİK" tvg-id="KralPop.tr" ,Kral Pop TV
 http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
-#EXTINF:0 tvg-id="NumberOneTV.tr" group-title="MÜZİK",Number One TV
+#EXTINF:0 group-title="MÜZİK" tvg-id="NumberOneTV.tr" ,Number One TV
 http://stream.tvcdn.net/muzik/number-one-tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MÜZİK",Number One TÃ¼rk
+#EXTINF:0 group-title="MÜZİK" ,Number One TÜRK
 http://stream.tvcdn.net/muzik/number-one-turk.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MÜZİK",Milyon TV
+#EXTINF:0 group-title="MÜZİK" ,Milyon TV
 http://stream.tvcdn.net/muzik/milyon-tv.m3u8
-#EXTINF:0 tvg-id="ext" group-title="MÜZİK",TatlÄ±ses TV
+#EXTINF:0 group-title="MÜZİK" ,TATLISES TV
 http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
-#EXTINF:0 tvg-id="TMB.tr" group-title="MÜZİK",TMB
+#EXTINF:0 group-title="MÜZİK" tvg-id="TMB.tr" ,TMB
 http://stream.tvcdn.net/muzik/tmb.m3u8
-
-#EXTINF:0 tvg-id="TRTHaber.tr" group-title="YEDEK",TRT HABER YEDEK
-https://tv.ensonhaber.com/trthaber/trthaber.m3u8
-#EXTINF:0 tvg-id="ext" group-title="YEDEK",HABER TÜRK YEDEK 1
-https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b
-#EXTINF:0 tvg-id="ext" group-title="YEDEK",HABER TÜRK YEDEK 2
-https://haberturk.blutv.com/blutv_haberturk_live/live.m3u8
-#EXTINF:0 tvg-id="ext" group-title="YEDEK",HABER TÜRK YEDEK 3
-https://tv.ensonhaber.com/haberturk/haberturk.m3u8
-#EXTINF:0 tvg-id="Tv100.tr" group-title="YEDEK",TV 100 YEDEK
-https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web
-#EXTINF:0 tvg-id="ext" group-title="YEDEK",EKOL TV YEDEK
-https://livestream.zazerconer.workers.dev/channel/UCccxXUKSuqOrlWQxweZBAQw.m3u8
-#EXTINF:0 tvg-id="BloombergHT.tr" group-title="YEDEK",BLOOMBERG HT YEDEK
-https://ciner-live.daioncdn.net/bloomberght/bloomberght.m3u8
-#EXTINF:0 tvg-id="BloombergHT.tr" group-title="YEDEK",BLOOMBERG HT
-https://bloomberght2.blutv.com/blutv_bloomberght2/live.m3u8
-#EXTINF:0 tvg-id="BloombergHT.tr" group-title="YEDEK",BLOOMBERG HT
-https://tv.ensonhaber.com/bloomberght/bloomberght.m3u8
-#EXTINF:0 tvg-id="kiev-rus" group-title="YEDEK",KRT
-https://krt.blutv.com/blutv_krt_live/live.m3u8
-#EXTINF:0 tvg-id="kiev-rus" group-title="YEDEK",KRT
-https://ythls.armelin.one/channel/UCVKWwHoLwUMMa80cu_1uapA.m3u8
-#EXTINF:0 tvg-id="HalkTV.tr" group-title="YEDEK",HALK TV
-https://halktvdvr.blutv.com/blutv_halktv2_dvr/live.m3u8
-#EXTINF:0 tvg-id="UlusalKanal.tr" group-title="YEDEK",ULUSAL KANAL
-https://internettv.guventechnology.com:19360/ulusaltv/ulusaltv.m3u8
-#EXTINF:0 tvg-id="CNBC-E.tr" group-title="YEDEK",CNBC-e
-https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/cnbce.m3u8
-#EXTINF:0 tvg-id="24.tr" group-title="YEDEK",24
-https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
-#EXTINF:0 tvg-id="UlkeTV.tr" group-title="YEDEK",ÜLKE TV
-https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
-
