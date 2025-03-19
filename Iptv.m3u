@@ -16,7 +16,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:0 group-title="ULUSAL" tvg-id="KANALD.tr" tvg-logo="https://i.ibb.co/s9mVqWH/kanald.png" tvg-logo-small="https://i.ibb.co/s9mVqWH/kanald.png" ,KANAL D HD
 https://trn03.tulix.tv/gt-kanald/playlist.m3u8
 #EXTINF:0 group-title="ULUSAL" tvg-id="atv.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" tvg-logo-small="https://i.ibb.co/n1SCYqN/atv.png" ,ATV HD
-https://c.fulltvizle.com/aytv/index.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 #EXTINF:0 group-title="ULUSAL" tvg-id="Now.tr" tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" tvg-logo-small="https://i.ibb.co/0DpKtzT/nowtvturk.png" ,NOW HD
 https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=4Wi8ZHCy-GPaqHt7qPhuQg&e=1734981841
 #EXTINF:0 group-title="ULUSAL" tvg-id="KANal7.tr" tvg-name="Kanal 7" tvg-logo="https://i.ibb.co/1s3fHfm/k7tr1.png" tvg-logo-small="https://i.ibb.co/1s3fHfm/k7tr1.png" ,KANAL 7 HD
@@ -33,10 +33,10 @@ http://stream.tvcdn.net/eglence/a2.m3u8
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
 #EXTINF:0 group-title="EĞLENCE" tvg-id="TLC.tr" tvg-name="TLC" tvg-logo="https://i.ibb.co/Z1vHy41/tlc.png" tvg-logo-small="https://i.ibb.co/Z1vHy41/tlc.png" ,TLC HD
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:0 group-title="EĞLENCE" tvg-id="dmax.tr" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" tvg-logo-small="https://i.ibb.co/QQQR6VK/dmax.png" ,DMAX HD
-https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:0 group-title="EĞLENCE" tvg-id="TV85.tr" tvg-logo="http://assets.tvcdn.net/be26f47c-18d7-4447-971c-ca4ba60ffb4c.png" ,TV8.5
 corrupt/empty
+#EXTINF:0 group-title="EĞLENCE" tvg-id="dmax.tr" tvg-logo="https://i.ibb.co/QQQR6VK/dmax.png" tvg-logo-small="https://i.ibb.co/QQQR6VK/dmax.png" ,DMAX HD
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
 #EXTINF:0 group-title="EĞLENCE" tvg-id="CNBC-e.tr" tvg-logo="https://i.ibb.co/kcpSwmK/cnbce.png" ,CNBC-e
 http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
 #EXTINF:0 group-title="BELGESEL" tvg-id="TRTBElgesel.tr" tvg-name="TRT Belgesel" tvg-logo="https://i.ibb.co/N1h8m96/trtbelgesel.png" tvg-logo-small="https://i.ibb.co/N1h8m96/trtbelgesel.png" ,TRT BELGESEL
@@ -153,3 +153,7 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/cnb
 https://ensonhaber-live.ercdn.net/tv24/tv24.m3u8
 #EXTINF:0 group-title="YEDEK" tvg-logo="https://i.ibb.co/ZXts607/ulketv.png" ,ÜLKE TV
 https://ulketv.blutv.com/blutv_ulketv2/live.m3u8
+#EXTINF:0 group-title="ULUSAL" tvg-id="atv.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" tvg-logo-small="https://i.ibb.co/n1SCYqN/atv.png" ,ATV HD 2
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+#EXTINF:0 group-title="ULUSAL" tvg-id="atv.tr" tvg-logo="https://i.ibb.co/n1SCYqN/atv.png" tvg-logo-small="https://i.ibb.co/n1SCYqN/atv.png" ,ATV AVRUPA
+http://185.234.111.229:8000/play/a018?=.m3u
