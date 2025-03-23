@@ -1,0 +1,180 @@
+#EXTINF:-1 tvg-name="TRT 1 HD" tvg-id="TRT 1 HD",TRT 1 HD
+#EXTVLCOPT:program=1900
+#EXTVLCOPT:audio-track=2900
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT TURK HD" tvg-id="TRT TURK HD",TRT TURK HD
+#EXTVLCOPT:program=1901
+#EXTVLCOPT:audio-track=2901
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="STAR TV HD" tvg-id="STAR TV HD",STAR TV HD
+#EXTVLCOPT:program=1902
+#EXTVLCOPT:audio-track=2902
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1 tvg-name="SHOW HD" tvg-id="SHOW HD",SHOW HD
+#EXTVLCOPT:program=1903
+#EXTVLCOPT:audio-track=2903
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-name="KANAL D HD" tvg-id="KANAL D HD",KANAL D HD
+#EXTVLCOPT:program=1904
+#EXTVLCOPT:audio-track=2904
+https://trn03.tulix.tv/gt-kanald/playlist.m3u8
+#EXTINF:-1 tvg-name="ATV HD" tvg-id="ATV HD",ATV HD
+#EXTVLCOPT:program=1905
+#EXTVLCOPT:audio-track=2905
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-name="NOW HD" tvg-id="NOW HD",NOW HD
+#EXTVLCOPT:program=1906
+#EXTVLCOPT:audio-track=2906
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=4Wi8ZHCy-GPaqHt7qPhuQg&e=1734981841
+#EXTINF:-1 tvg-name="KANAL 7 HD" tvg-id="KANAL 7 HD",KANAL 7 HD
+#EXTVLCOPT:program=1907
+#EXTVLCOPT:audio-track=2907
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-name="BEYAZ TV HD" tvg-id="BEYAZ TV HD",BEYAZ TV HD
+#EXTVLCOPT:program=1908
+#EXTVLCOPT:audio-track=2908
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1 tvg-name="360 HD" tvg-id="360 HD",360 HD
+#EXTVLCOPT:program=1909
+#EXTVLCOPT:audio-track=2909
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-name="ATV HD 2" tvg-id="ATV HD 2",ATV HD 2
+#EXTVLCOPT:program=1910
+#EXTVLCOPT:audio-track=2910
+http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="ATV AVRUPA" tvg-id="ATV AVRUPA",ATV AVRUPA
+#EXTVLCOPT:program=1911
+#EXTVLCOPT:audio-track=2911
+http://185.234.111.229:8000/play/a018?=.m3u
+#EXTINF:-1 tvg-name="TRT HABER HD" tvg-id="TRT HABER HD",TRT HABER HD
+#EXTVLCOPT:program=1912
+#EXTVLCOPT:audio-track=2912
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="CNN TÜRK" tvg-id="CNN TÜRK",CNN TÜRK
+#EXTVLCOPT:program=1913
+#EXTVLCOPT:audio-track=2913
+https://ythls.kekikakademi.org/youtube/channel/UCV6zcRug6Hqp1UX_FdyUeBg.m3u8
+#EXTINF:-1 tvg-name="NTV" tvg-id="NTV",NTV
+#EXTVLCOPT:program=1914
+#EXTVLCOPT:audio-track=2914
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1 tvg-name="HABERTURK HD" tvg-id="HABERTURK HD",HABERTURK HD
+#EXTVLCOPT:program=1915
+#EXTVLCOPT:audio-track=2915
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1 tvg-name="TBMM TV" tvg-id="TBMM TV",TBMM TV
+#EXTVLCOPT:program=1916
+#EXTVLCOPT:audio-track=2916
+https://meclistv-live.ercdn.net/meclistv/meclistv.m3u8
+#EXTINF:-1 tvg-name="SÖZCÜ TV" tvg-id="SÖZCÜ TV",SÖZCÜ TV
+#EXTVLCOPT:program=1917
+#EXTVLCOPT:audio-track=2917
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
+#EXTINF:-1 tvg-name="HALK TV" tvg-id="HALK TV",HALK TV
+#EXTVLCOPT:program=1918
+#EXTVLCOPT:audio-track=2918
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1 tvg-name="TELE 1" tvg-id="TELE 1",TELE 1
+#EXTVLCOPT:program=1919
+#EXTVLCOPT:audio-track=2919
+https://tele1.blutv.com/blutv_tele1_live/live.m3u8
+#EXTINF:-1 tvg-name="EKOL TV" tvg-id="EKOL TV",EKOL TV
+#EXTVLCOPT:program=1920
+#EXTVLCOPT:audio-track=2920
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1 tvg-name="BLOOMBERG HT" tvg-id="BLOOMBERG HT",BLOOMBERG HT
+#EXTVLCOPT:program=1921
+#EXTVLCOPT:audio-track=2921
+https://bloomberght-live.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-name="TRT SPOR HD" tvg-id="TRT SPOR HD",TRT SPOR HD
+#EXTVLCOPT:program=1922
+#EXTVLCOPT:audio-track=2922
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT Spor" tvg-id="TRT Spor",TRT Spor
+#EXTVLCOPT:program=1923
+#EXTVLCOPT:audio-track=2923
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+#EXTINF:-1 tvg-name="TRT Spor YILDIZ" tvg-id="TRT Spor YILDIZ",TRT Spor YILDIZ
+#EXTVLCOPT:program=1924
+#EXTVLCOPT:audio-track=2924
+http://stream.tvcdn.net/spor/trt-spor-yildiz.m3u8
+#EXTINF:-1 tvg-name="A Spor" tvg-id="A Spor",A Spor
+#EXTVLCOPT:program=1925
+#EXTVLCOPT:audio-track=2925
+http://stream.tvcdn.net/spor/a-spor.m3u8
+#EXTINF:-1 tvg-name="beIN Sports Haber" tvg-id="beIN Sports Haber",beIN Sports Haber
+#EXTVLCOPT:program=1926
+#EXTVLCOPT:audio-track=2926
+http://stream.tvcdn.net/spor/bein-sports-haber.m3u8
+#EXTINF:-1 tvg-name="Tivibu Spor" tvg-id="Tivibu Spor",Tivibu Spor
+#EXTVLCOPT:program=1927
+#EXTVLCOPT:audio-track=2927
+http://stream.tvcdn.net/spor/tivibu-spor.m3u8
+#EXTINF:-1 tvg-name="TJK TV" tvg-id="TJK TV",TJK TV
+#EXTVLCOPT:program=1928
+#EXTVLCOPT:audio-track=2928
+http://stream.tvcdn.net/spor/tjk-tv.m3u8
+#EXTINF:-1 tvg-name="TRT ÇOCUK HD" tvg-id="TRT ÇOCUK HD",TRT ÇOCUK HD
+#EXTVLCOPT:program=1929
+#EXTVLCOPT:audio-track=2929
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="Teve2 HD" tvg-id="Teve2 HD",Teve2 HD
+#EXTVLCOPT:program=1930
+#EXTVLCOPT:audio-track=2930
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1 tvg-name="A2 HD" tvg-id="A2 HD",A2 HD
+#EXTVLCOPT:program=1931
+#EXTVLCOPT:audio-track=2931
+http://stream.tvcdn.net/eglence/a2.m3u8
+#EXTINF:-1 tvg-name="SHOW MAX HD" tvg-id="SHOW MAX HD",SHOW MAX HD
+#EXTVLCOPT:program=1932
+#EXTVLCOPT:audio-track=2932
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+#EXTINF:-1 tvg-name="TLC HD" tvg-id="TLC HD",TLC HD
+#EXTVLCOPT:program=1933
+#EXTVLCOPT:audio-track=2933
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1 tvg-name="TV8.5" tvg-id="TV8.5",TV8.5
+#EXTVLCOPT:program=1934
+#EXTVLCOPT:audio-track=2934
+corrupt/empty
+#EXTINF:-1 tvg-name="DMAX HD" tvg-id="DMAX HD",DMAX HD
+#EXTVLCOPT:program=1935
+#EXTVLCOPT:audio-track=2935
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1 tvg-name="CNBC-e" tvg-id="CNBC-e",CNBC-e
+#EXTVLCOPT:program=1936
+#EXTVLCOPT:audio-track=2936
+http://stream.tvcdn.net/ekonomi/cnbc-e.m3u8
+#EXTINF:-1 tvg-name="TRT BELGESEL" tvg-id="TRT BELGESEL",TRT BELGESEL
+#EXTVLCOPT:program=1937
+#EXTVLCOPT:audio-track=2937
+http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-name="TRT MUZIK" tvg-id="TRT MUZIK",TRT MUZIK
+#EXTVLCOPT:program=1938
+#EXTVLCOPT:audio-track=2938
+http://stream.tvcdn.net/muzik/trt-muzik.m3u8
+#EXTINF:-1 tvg-name="Dream TÃ¼rk" tvg-id="Dream TÃ¼rk",Dream TÃ¼rk
+#EXTVLCOPT:program=1939
+#EXTVLCOPT:audio-track=2939
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
+#EXTINF:-1 tvg-name="PowertÃ¼rk TV" tvg-id="PowertÃ¼rk TV",PowertÃ¼rk TV
+#EXTVLCOPT:program=1940
+#EXTVLCOPT:audio-track=2940
+http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
+#EXTINF:-1 tvg-name="Power TV" tvg-id="Power TV",Power TV
+#EXTVLCOPT:program=1941
+#EXTVLCOPT:audio-track=2941
+http://stream.tvcdn.net/muzik/power-tv.m3u8
+#EXTINF:-1 tvg-name="Kral Pop TV" tvg-id="Kral Pop TV",Kral Pop TV
+#EXTVLCOPT:program=1942
+#EXTVLCOPT:audio-track=2942
+http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
+#EXTINF:-1 tvg-name="Number One TV" tvg-id="Number One TV",Number One TV
+#EXTVLCOPT:program=1943
+#EXTVLCOPT:audio-track=2943
+http://stream.tvcdn.net/muzik/number-one-tv.m3u8
+#EXTINF:-1 tvg-name="Number One TÜRK" tvg-id="Number One TÜRK",Number One TÜRK
+#EXTVLCOPT:program=1944
+#EXTVLCOPT:audio-track=2944
+http://stream.tvcdn.net/muzik/number-one-turk.m3u8
