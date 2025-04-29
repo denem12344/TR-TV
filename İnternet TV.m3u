@@ -1,0 +1,147 @@
+#EXTM3U
+#EXTPARAMS:NET=6500
+#EXTINF:-1 group-title="TURKSAT 42E",TRT 1 HD
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT HABER HD
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT SPOR HD
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT ÇOCUK HD
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,TRT TURK HD
+https://tv-trtturk.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,STAR TV HD
+https://dogus-live.daioncdn.net/startv/startv.m3u8
+#EXTINF:-1,Kanal D HD
+http://trn09.tulix.tv/gt-kanald/index.m3u8
+#EXTINF:-1,SHOW HD
+https://ciner-live.daioncdn.net/showtv/showtv.m3u8?maxbw=8000
+#EXTINF:-1,ATV HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8?maxbw=8000
+#EXTINF:-1,NOW HD
+http://116.202.238.88/FOXTV_TR/index.m3u8
+#EXTINF:-1,KANAL 7 HD
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1,BEYAZ TV HD
+https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
+#EXTINF:-1,TV8 HD
+https://tv8-live.daioncdn.net/tv8/tv8_1080p.m3u8
+#EXTINF:-1,360 HD
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1,Teve2 HD
+https://live.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+#EXTINF:-1,A2 HD
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
+#EXTINF:-1,SHOW MAX HD
+https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8
+#EXTINF:-1,TLC HD
+https://dogus-live.daioncdn.net/tlc/tlc.m3u8
+#EXTINF:-1,TV4 HD
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1,TV8.5
+https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+#EXTINF:-1,DMAX HD
+https://dogus-live.daioncdn.net/dmax/dmax.m3u8
+#EXTINF:-1,CNBC-e
+https://cnbc-e.daioncdn.net/cnbc-e/cnbc-e_720p.m3u8?e=1745738390&st=jhbzhskF-XcfiszifBtp-A&sid=7cxg0cp1dsxx&app=3a3f6622-1025-4b00-af19-6df611ff07d3&ce=2
+#EXTINF:-1,TRT BELGESEL
+http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,CNN TÜRK
+https://helga.iptv2022.com/sh/cnn_turk/index.m3u8
+#EXTINF:-1,NTV
+https://dogus-live.daioncdn.net/ntv/ntv.m3u8
+#EXTINF:-1,HABERTURK HD
+https://ciner-live.daioncdn.net/haberturktv/haberturktv.m3u8
+#EXTINF:-1,TV 100
+https://tv100-live.daioncdn.net/tv100/tv100.m3u8
+#EXTINF:-1,SÖZCÜ TV
+http://stream.tvcdn.net/haber/sozcu-tv.m3u8
+#EXTINF:-1,HALK TV
+https://halktv-live.daioncdn.net/halktv/halktv.m3u8
+#EXTINF:-1,TELE 1
+https://tele1-live.ercdn.net/tele1/tele1.m3u8
+#EXTINF:-1,EKOL TV
+https://ekoltv-live.ercdn.net/ekoltv/ekoltv.m3u8
+#EXTINF:-1,TRT MUZIK
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+#EXTINF:-1,Genç TV
+#EXTVLCOPT:program=1
+http://192.168.1.102:8409/iptv/channel/6.ts
+#EXTINF:-1,Dream TÜRK HD
+http://stream.tvcdn.net/muzik/dream-turk.m3u8
+#EXTINF:-1,PowerTürk HD
+http://stream.tvcdn.net/muzik/powerturk-tv.m3u8
+#EXTINF:-1,Power HD
+http://stream.tvcdn.net/muzik/power-tv.m3u8
+#EXTINF:-1,Kral Pop TV
+http://stream.tvcdn.net/muzik/kral-pop-tv.m3u8
+#EXTINF:-1,Number One TV HD
+http://stream.tvcdn.net/muzik/number-one-tv.m3u8
+#EXTINF:-1,Number One TÜRK TV HD
+http://stream.tvcdn.net/muzik/number-one-turk.m3u8
+#EXTINF:-1,TATLISES TV
+http://stream.tvcdn.net/muzik/tatlises-tv.m3u8
+#EXTINF:-1,TRT Spor
+http://stream.tvcdn.net/spor/trt-spor.m3u8
+#EXTINF:-1,TRT Spor YILDIZ
+https://trt.daioncdn.net/trtspor-yildiz/master.m3u8?app=web&format=.m3u8
+#EXTINF:-1,A Spor
+https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
+#EXTINF:-1,TJK TV
+http://stream.tvcdn.net/spor/tjk-tv.m3u8
+#EXTINF:-1,Dýsney Channel
+#EXTVLCOPT:program=1
+http://192.168.1.102:8409/iptv/channel/2.ts
+#EXTINF:-1,Star TV (Kardeþ Payý)
+#EXTVLCOPT:program=1
+http://192.168.1.102:8409/iptv/channel/3.ts
+#EXTINF:-1,KANAL D HD
+https://trn03.tulix.tv/gt-kanald/playlist.m3u8
+#EXTINF:-1,KANAL D HD
+https://live.duhnet.tv/S2/HLS_LIVE/kanalddainp/playlist.m3u8
+#EXTINF:-1 group-title="Turkiye_Radyo_Kanallari",Virgin Radio
+http://27753.live.streamtheworld.com:80/VIRGIN_RADIOAAC_SC
+#EXTINF:-1,X Radio
+https://stream.xradio.com.tr:8770/stream
+#EXTINF:-1,Radyo Trafik
+http://37.247.100.118/stream/157/
+#EXTINF:-1,TRT FM
+https://trt.radyotvonline.net/trtfm
+#EXTINF:-1,Süper FM
+http://27793.live.streamtheworld.com:80/SUPER_FMAAC_SC
+#EXTINF:-1,Radyo D
+http://moondigitaledge2.radyotvonline.net/radyod/playlist.m3u8
+#EXTINF:-1,Slow Türk
+https://radyo.duhnet.tv/slowturk
+#EXTINF:-1,Show Radyo
+http://46.20.3.228/listen.pls
+#EXTINF:-1,Radyo Viva
+http://46.20.3.230/
+#EXTINF:-1,Radyo 45'lik
+http://stream.radyo45lik.com:4545/stream
+#EXTINF:-1,Power Türk
+http://live.powerapp.com.tr/powerturk/abr/playlist.m3u8
+#EXTINF:-1,Power Pop
+https://listen.powerapp.com.tr/powerpop/abr/playlist.m3u8
+#EXTINF:-1,Power FM
+http://powerfm.listenpowerapp.com/powerfm/mpeg/icecast.audio
+#EXTINF:-1,Pal Nostalji
+http://shoutcast.radyogrup.com:1010/
+#EXTINF:-1,Number Türk FM
+http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e30cf8d28e_1/playlist.m3u8
+#EXTINF:-1,Number One FM
+http://n10101m.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/u_stream_5c9e2f95dcb16_1/playlist.m3u8
+#EXTINF:-1,Metro FM
+http://25693.live.streamtheworld.com:80/METRO_FMAAC_SC
+#EXTINF:-1,Kral FM Ýlaç Gibi Radyo
+http://46.20.3.204/listen.pls
+#EXTINF:-1,Kral Pop Radyo
+http://46.20.3.201:80/
+#EXTINF:-1,Joy Türk
+http://22593.live.streamtheworld.com:80/JOY_TURKAAC_SC
+#EXTINF:-1,Joy FM
+http://27873.live.streamtheworld.com:80/JOY_FMAAC_SC
+#EXTINF:-1,Best FM
+http://46.20.7.125/listen.pls
+#EXTINF:-1,Alem FM
+https://turkmedya.radyotvonline.net/alemfmaac
