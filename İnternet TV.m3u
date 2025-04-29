@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTPARAMS:NET=6500
-#EXTINF:-1 group-title="TURKSAT 42E",TRT 1 HD
+#EXTINF:-1 group-title="IPTV",TRT 1 HD
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT HABER HD
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
